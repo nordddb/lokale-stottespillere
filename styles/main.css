@@ -475,14 +475,14 @@ p {
 }
 
 .bg-section3 {
-    background-image: url("../img/bg_corps2.jpg");
+    background-image: url("../assets/bg_corps.jpg");
     background-position: left;
     background-repeat: no-repeat; 
     background-size: cover;
 }
 
 .bg-section5 {
-    background-image: url("../img/bg_multi_large.jpg");
+    background-image: url("../assets/bg_multi_large.jpg");
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
